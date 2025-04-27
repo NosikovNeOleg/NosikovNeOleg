@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2> Hello! I am glad to see you here!<br>My name is Vanya and I'm a Java Developer in "MTS Bank" (Russia)</h2>
+  <h2> Hello! I am glad to see you here!<br>My name is Vanya and I'm a Java Developer in "I-Teco" (Russia)</h2>
 </div>
 <h3>🔗 My Links:</h3>
 <div align="center">
